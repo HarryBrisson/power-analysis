@@ -1,1 +1,10 @@
+#checkpoints
 .ipynb_checkpoints
+
+
+
+# pdf export related files
+.pdf
+.png
+.gz
+.tex
